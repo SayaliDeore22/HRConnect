@@ -1,5 +1,4 @@
 import csv
-
 class HandleCSV:
     filename = "E:\Velocity class\employee.csv"
 
